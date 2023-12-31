@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cX7W3lVQqRRLQ0xP61ShdNOxmCn8brvyj17nkRbw7UXDBqXzFVbAt91S7NSChCSOxqSKGP4zVeI30HVJPgFqdQ==",
+  "dgSpecHash": "2+YJgbf4VyYkwNwvTJlQHZ/H8AzVdHKZ+vybozx7ipmWf80KZJQfiyhZ4BRc0L4oBbM1BGuovPOJootL1nBh9w==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\SistemaInventariov6\\SistemaInventario\\SistemaInventario.csproj",
+  "projectFilePath": "C:\\git\\SistemaInventariov6\\SistemaInventario\\SistemaInventario.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\afamevm\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\afamevm\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

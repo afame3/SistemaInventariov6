@@ -4194,11 +4194,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repos\\SistemaInventariov6\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
+      "projectUniqueName": "C:\\git\\SistemaInventariov6\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
       "projectName": "SistemaInventario.AccesoDatos",
-      "projectPath": "C:\\Repos\\SistemaInventariov6\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
+      "projectPath": "C:\\git\\SistemaInventariov6\\SistemaInventario.AccesoDatos\\SistemaInventario.AccesoDatos.csproj",
       "packagesPath": "C:\\Users\\afamevm\\.nuget\\packages\\",
-      "outputPath": "C:\\Repos\\SistemaInventariov6\\SistemaInventario.AccesoDatos\\obj\\",
+      "outputPath": "C:\\git\\SistemaInventariov6\\SistemaInventario.AccesoDatos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\afamevm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4215,11 +4215,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Repos\\SistemaInventariov6\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
-              "projectPath": "C:\\Repos\\SistemaInventariov6\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj"
+            "C:\\git\\SistemaInventariov6\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj": {
+              "projectPath": "C:\\git\\SistemaInventariov6\\SistemaInventario.Modelos\\SistemaInventario.Modelos.csproj"
             },
-            "C:\\Repos\\SistemaInventariov6\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
-              "projectPath": "C:\\Repos\\SistemaInventariov6\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
+            "C:\\git\\SistemaInventariov6\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj": {
+              "projectPath": "C:\\git\\SistemaInventariov6\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj"
             }
           }
         }

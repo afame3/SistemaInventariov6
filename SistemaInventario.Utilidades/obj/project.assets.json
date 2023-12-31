@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repos\\SistemaInventariov6\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+      "projectUniqueName": "C:\\git\\SistemaInventariov6\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
       "projectName": "SistemaInventario.Utilidades",
-      "projectPath": "C:\\Repos\\SistemaInventariov6\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
+      "projectPath": "C:\\git\\SistemaInventariov6\\SistemaInventario.Utilidades\\SistemaInventario.Utilidades.csproj",
       "packagesPath": "C:\\Users\\afamevm\\.nuget\\packages\\",
-      "outputPath": "C:\\Repos\\SistemaInventariov6\\SistemaInventario.Utilidades\\obj\\",
+      "outputPath": "C:\\git\\SistemaInventariov6\\SistemaInventario.Utilidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\afamevm\\AppData\\Roaming\\NuGet\\NuGet.Config",
